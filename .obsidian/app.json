@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "raw/assets",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "newFileLocation": "current",
+  "promptDelete": false,
+  "showUnsupportedFiles": true
+}
