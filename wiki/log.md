@@ -41,7 +41,24 @@ Append-only operational history for the wiki.
 - notes: ingested `raw/assets/工程技术：在智能体优先的世界中利用 Codex.md` into one source page plus Codex and agent-first engineering pages
 - notes: expanded the wiki from long-context reasoning into coding agents, repository-as-record-system, and harness design themes
 
+## [2026-05-10] ingest | EWD 667: On the foolishness of "natural language programming"
+- files: `wiki/sources/dijkstra-natural-language-programming.md`, `wiki/entities/edsger-dijkstra.md`, `wiki/concepts/natural-language-programming.md`, `wiki/concepts/agent-first-engineering.md`, `wiki/index.md`
+- notes: ingested Dijkstra's EWD 667 into a source page, entity page for Dijkstra, and concept page for natural language programming
+- notes: linked Dijkstra's narrow-interface argument to agent-first engineering's emphasis on structured constraints and mechanical verification
+- notes: framed the LLM-era tension around prompt programming, precision vs. accessibility, and whether Dijkstra's critique is obsolete or more relevant than ever
+
+## [2026-05-10] ingest | Evolution of HTTP
+- files: `wiki/sources/evolution-of-http.md`, `wiki/concepts/http.md`, `wiki/entities/tim-berners-lee.md`, `wiki/index.md`
+- notes: ingested `raw/assets/Evolution of HTTP.md` (MDN) into a source page, an HTTP evolution concept page, and a Tim Berners-Lee entity page
+- notes: introduced the `web-fundamentals` domain to the wiki taxonomy
+- notes: covered HTTP versions 0.9 through 3, TLS/SSL, REST, WebDAV, CORS/CSP, and the evolving solutions to head-of-line blocking
+
 ## [2026-05-10] schema | add domain property to wiki documents
 - files: `wiki/index.md`, `wiki/log.md`, `wiki/meta/overview.md`, `wiki/meta/obsidian-home.md`, `wiki/sources/README.md`, `wiki/sources/2025-recursive-language-models.md`, `wiki/sources/2026-harness-engineering-with-codex.md`, `wiki/entities/README.md`, `wiki/entities/oolong-benchmark.md`, `wiki/entities/browsecomp-plus.md`, `wiki/entities/codex.md`, `wiki/concepts/README.md`, `wiki/concepts/context-rot.md`, `wiki/concepts/long-context-reasoning.md`, `wiki/concepts/recursive-language-models.md`, `wiki/concepts/inference-time-scaling.md`, `wiki/concepts/agent-first-engineering.md`, `wiki/analyses/README.md`, `wiki/analyses/rlm-vs-react-vs-rag.md`, `wiki/analyses/rlm-vs-summarization-vs-memory-systems.md`
 - notes: added a `domain` frontmatter property to every markdown document under `wiki/`
 - notes: used `wiki-maintenance`, `long-context-reasoning`, `llm-inference`, and `agentic-software-engineering` as the initial domain taxonomy
+
+## [2026-05-12] ingest | 使用 Claude Code：HTML 的不可思议的有效性
+- files: `wiki/sources/using-claude-code-html-effectiveness.md`, `wiki/concepts/html-artifacts.md`, `wiki/entities/claude-code.md`, `wiki/concepts/agent-first-engineering.md`, `wiki/index.md`, `wiki/meta/overview.md`, `wiki/meta/obsidian-home.md`, `wiki/log.md`
+- notes: ingested the Claude Code HTML-artifacts post into one source page plus durable concept and entity pages
+- notes: expanded the agentic engineering cluster toward human-readable review surfaces, interactive artifacts, and HTML-based output workflows

@@ -3,7 +3,7 @@ title: Obsidian Home
 type: meta
 status: active
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 domain: wiki-maintenance
 tags:
   - wiki/home
@@ -34,12 +34,12 @@ tags:
 
 ## 最近内容
 
+- [使用 Claude Code：HTML 的不可思议的有效性](../sources/using-claude-code-html-effectiveness.md)
+- [HTML Artifacts](../concepts/html-artifacts.md)
+- [Claude Code](../entities/claude-code.md)
 - [工程技术：在智能体优先的世界中利用 Codex](../sources/2026-harness-engineering-with-codex.md)
 - [Agent-First Engineering](../concepts/agent-first-engineering.md)
 - [Codex](../entities/codex.md)
-- [Recursive Language Models](../sources/2025-recursive-language-models.md)
-- [RLM、ReAct 与 RAG 的对比](../analyses/rlm-vs-react-vs-rag.md)
-- [RLM、总结式上下文管理与记忆系统的对比](../analyses/rlm-vs-summarization-vs-memory-systems.md)
 
 ## Obsidian 使用提示
 
