@@ -3,7 +3,7 @@ title: Edsger W. Dijkstra
 type: entity
 status: active
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-15
 domain: programming-languages
 tags:
   - wiki/entity
@@ -11,7 +11,7 @@ tags:
   - formal-methods
   - programming-languages
 source_files:
-  - raw/assets/E.W.Dijkstra Archive On the foolishness of "natural language programming". (EWD 667).md
+  - raw/assets/e-w-dijkstra-on-the-foolishness-of-natural-language-programming-ewd-667.md
 ---
 
 # Edsger W. Dijkstra

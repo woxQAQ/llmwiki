@@ -3,7 +3,7 @@ title: "EWD 667: On the foolishness of \"natural language programming\""
 type: source
 status: active
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-15
 domain: programming-languages
 tags:
   - wiki/source
@@ -11,7 +11,7 @@ tags:
   - natural-language-programming
   - formal-methods
 source_files:
-  - raw/assets/E.W.Dijkstra Archive On the foolishness of "natural language programming". (EWD 667).md
+  - raw/assets/e-w-dijkstra-on-the-foolishness-of-natural-language-programming-ewd-667.md
 original_url: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html
 ---
 

@@ -62,3 +62,8 @@ Append-only operational history for the wiki.
 - files: `wiki/sources/using-claude-code-html-effectiveness.md`, `wiki/concepts/html-artifacts.md`, `wiki/entities/claude-code.md`, `wiki/concepts/agent-first-engineering.md`, `wiki/index.md`, `wiki/meta/overview.md`, `wiki/meta/obsidian-home.md`, `wiki/log.md`
 - notes: ingested the Claude Code HTML-artifacts post into one source page plus durable concept and entity pages
 - notes: expanded the agentic engineering cluster toward human-readable review surfaces, interactive artifacts, and HTML-based output workflows
+
+## [2026-05-15] schema | rename invalid raw asset path for portability
+- files: `raw/assets/e-w-dijkstra-on-the-foolishness-of-natural-language-programming-ewd-667.md`, `wiki/sources/dijkstra-natural-language-programming.md`, `wiki/entities/edsger-dijkstra.md`, `wiki/concepts/natural-language-programming.md`, `wiki/log.md`
+- notes: renamed the EWD 667 raw asset to a filesystem-safe kebab-case path without double quotes
+- notes: updated all wiki `source_files` references so Git checkouts on Windows-compatible filesystems no longer fail
